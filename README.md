@@ -25,6 +25,11 @@
 
 ---
 
+## **Pessoas**
+> Nesse segundo problema, foi pedido que uma classe pessoa fosse criada e, a partir disso, uma pessoa chamada José, fosse instanciada e capaz de informar seu IMC. Com isso, criei a classe Pessoa, o método construtor e criei mais um método para calcular o IMC.
+>
+> Após isso, instanciei a pessoa José e chamei o método para calcular seu IMC. Ao final da aula, foi pedido que, além de informar seu IMC, a pessoa José deveria ser capaz de classificar seu peso de acordo com a tabela da OMS. Assim, um novo método foi criado e chamado ao final do exercício.
+> 
 ---
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
