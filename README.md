@@ -9,13 +9,21 @@
 
 ---
 
-## **Idade**
+## :underage: **Idade**
 > Nesse exercício, comparamos a idade de duas pessoas. Para isso, criamos a classe Pessoa e uma função que recebia p1 e p2 e depois fazia a comparação de suas idades.
 >
 > Para a resolução do exercício, foram criados os objetos p1 e p2 e, a partir deles, foi possivel resgatar o valor do atributo idade. Em seguida foi realizada a comparação entre os dois objetos e determinado qual era mais velho.
 
 ---
 
+## :car: **Carros**
+> Na segunda aula, foi proposto novamente um exercício para determinar o valor gasto com combustível em uma determinada viagem. No problema,fiz algumas alterações com relação ao proposto em aula. Porém a realização dos cálculos e a criação do método foram feitos.
+> 
+> Para isso, criei um método dentro da classe carro e, após a criação do objeto carro, o chamei e o cálculo foi feito. Os valores das variáveis foram atribuídos no próprio código.
+>
+> Apesar das pequenas alterações, o resultado obtido após a execução do cálculo com os valores definidos em aula foi o mesmo que obtido pelo professor. Minha interpretação não alterou o resultado final e, portanto, foi possível determinar quanto foi gasto numa viagem.
+
+---
 
 ---
 
