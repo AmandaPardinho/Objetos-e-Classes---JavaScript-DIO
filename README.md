@@ -9,8 +9,13 @@
 
 ---
 
-## **POO_JavaScript**
+## **Idade**
+> Nesse exercício, comparamos a idade de duas pessoas. Para isso, criamos a classe Pessoa e uma função que recebia p1 e p2 e depois fazia a comparação de suas idades.
 >
+> Para a resolução do exercício, foram criados os objetos p1 e p2 e, a partir deles, foi possivel resgatar o valor do atributo idade. Em seguida foi realizada a comparação entre os dois objetos e determinado qual era mais velho.
+
+---
+
 
 ---
 
